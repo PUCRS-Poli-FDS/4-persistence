@@ -121,3 +121,15 @@ Caused by: org.h2.jdbc.JdbcSQLNonTransientConnectionException: The connection wa
 	at org.h2.message.DbException.getJdbcSQLException(DbException.java:617)
 	at org.h2.message.DbException.getJdbcSQLException(DbException.java:427)
 	... 49 more
+2019-10-29 20:53:53 jdbc[13]: exception
+org.h2.jdbc.JdbcSQLNonTransientException: No data is available [2000-199]
+2019-10-29 20:54:31 jdbc[21]: exception
+org.h2.jdbc.JdbcSQLNonTransientException: No data is available [2000-199]
+2019-10-29 20:54:50 jdbc[23]: exception
+org.h2.jdbc.JdbcSQLNonTransientException: No data is available [2000-199]
+2019-10-29 20:55:17 jdbc[25]: exception
+org.h2.jdbc.JdbcSQLNonTransientException: No data is available [2000-199]
+2019-10-29 20:55:49 jdbc[27]: exception
+org.h2.jdbc.JdbcSQLNonTransientException: No data is available [2000-199]
+2019-10-29 20:56:57 jdbc[19]: exception
+org.h2.jdbc.JdbcSQLNonTransientException: No data is available [2000-199]

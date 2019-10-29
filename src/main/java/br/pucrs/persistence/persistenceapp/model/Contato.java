@@ -8,6 +8,7 @@ import lombok.Data;
 @Builder
 @AllArgsConstructor
 public class Contato {
+    int id;
     String nome;
     String telefone;
 }
